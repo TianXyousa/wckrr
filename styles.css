@@ -43,10 +43,10 @@ main {
 
 /* 页脚样式 */
 footer {
-    background-color: #f1f1f1;
+    background-color: transparent;
     padding: 1em;
     text-align: center;
     position: fixed;
     width: 100%;
-    bottom: 0;
+    bottom: -20px;
 }
